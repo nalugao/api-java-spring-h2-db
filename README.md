@@ -4,7 +4,12 @@ A REST API built with Java Spring Boot and H2 Database, designed for lightweight
 
 ## Overview
 
-This project provides a simple yet powerful API framework using Spring Boot 4.0.3 with H2 in-memory database for rapid application development and testing.
+This project aims to achieve the following goals:
+1. Create Spring Boot Project
+2. Configure H2 Database
+3. Create Domain Class (Entity) with JPA ORM
+4. Perform Database Seeding
+5. Retrieve Data with Pagination
 
 ## Technology Stack
 
@@ -163,9 +168,6 @@ The project includes testing frameworks for both unit and integration tests. Pla
 
 This project is open source and available for use and modification.
 
-## Author
-
-Natalia Gao (nalugao)
 
 ## Support and Contributions
 
